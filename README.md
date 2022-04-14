@@ -20,7 +20,7 @@ conda activate NeurPartEnv
 pip install -r requirements.txt
 ```
 
-* Install MAESTRO
+* Install [MAESTRO](https://github.com/maestro-project/maestro.git)
 ```
 python build.py
 ```
